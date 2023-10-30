@@ -38,3 +38,5 @@ console.log(typeof undefined) //undefined
 
 console.log(typeof null) //the output will be object.
 //note: either it is langaug error or it is okey. never tried to find logic.
+
+
