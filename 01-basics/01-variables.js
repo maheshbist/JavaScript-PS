@@ -30,5 +30,6 @@ console.table([accountId, accountEmail, accountPassword, accountCity, accountSta
 //if we don't assign value in let variable then it shows undefined variables. same for var as well it will show undefined.
 
 //Note: if we have something error with variable or it's value then we generally get object anonymous error.
+ 
 
 
