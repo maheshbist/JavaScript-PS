@@ -27,7 +27,7 @@ accountCity = "Pokhara"
 //there will so much conole.log to write so let's choose different way.
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState, accountCountry]);
 
-//if we don't assign value in let variable then it shows undefined variables. same for var as well it will show undefined.
+//if we don't assign value in let variable then it shows undefined variables. same for var as well.
 
 //Note: if we have something error with variable or it's value then we generally get object anonymous error.
  
