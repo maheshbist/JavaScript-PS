@@ -50,7 +50,7 @@ console.log(otherDate.getMonth()+1);//output will be exact. jan 1 feb 2 this way
 console.log(`the daty is ${otherDate.getDay()+1} and time is ${otherDate.getTime()}`)
 
 //also we can customize toLocaleString
-let customizeDate = otherDate.toLocaleString('default',{
+let customizeDate = otherDate.toLocaleString('default', {
     weekday: "long",
     year: "2-digit"
 })
